@@ -44,10 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lesson2.fs" />
+    <Compile Include=".gitignore" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(FSharpTargetsPath)" />
 </Project>
